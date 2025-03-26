@@ -1,6 +1,6 @@
-# FantasyGens Team GitHub Profiles
+# Fantasy Gens Team GitHub Profiles
 
-Welcome to the FantasyGens project! Below are the GitHub profiles of our team members. Feel free to explore our individual contributions and other projects:
+Welcome to the Fantasy Gens project! Below are the GitHub profiles of our team members. Feel free to explore our individual contributions and other projects:
 
 - [Ethan Tiller](https://github.com/Ethan-Tiller)
 - [Maxwell Blevins](https://github.com/MaxwellABlevins)  
